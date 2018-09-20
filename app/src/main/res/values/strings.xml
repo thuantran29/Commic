@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Commic</string>
+    <string name="common_setting">Setting</string>
+    <string name="common_search">Search</string>
+    <string name="common_information">Information</string>
+    <string name="common_information_1">Information 1</string>
+    <string name="common_information_2">Information 2</string>
+    <string name="common_information_3">Information 3</string>
+    <string name="common_system">System</string>
+    <string name="common_system_1">System 1</string>
+    <string name="common_system_2">System 2</string>
+</resources>

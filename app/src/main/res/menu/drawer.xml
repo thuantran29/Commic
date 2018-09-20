@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/common_information">
+        <menu>
+            <item
+                android:id="@+id/menuKhachHang"
+                android:icon="@mipmap/ic_launcher"
+                android:title="@string/common_information_1" />
+            <item
+                android:id="@+id/menuSanPham"
+                android:icon="@mipmap/ic_launcher"
+                android:title="@string/common_information_2" />
+            <item
+                android:id="@+id/menuHoaDon"
+                android:icon="@mipmap/ic_launcher"
+                android:title="@string/common_information_3" />
+        </menu>
+    </item>
+    // menu second
+    <item android:title="@string/common_system">
+        <menu>
+            <item
+                android:id="@+id/menuPassword"
+                android:icon="@mipmap/ic_launcher"
+                android:title="@string/common_system_1" />
+            <item
+                android:id="@+id/menuClose"
+                android:icon="@mipmap/ic_launcher"
+                android:title="@string/common_system_2" />
+        </menu>
+    </item>
+</menu>
